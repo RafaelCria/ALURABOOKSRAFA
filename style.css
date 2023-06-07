@@ -2,6 +2,6 @@
     --cor-de-fundo: #ebecee
 }
 body{
-    background var(--cor-de-fundo)
+    background-color: var(--cor-de-fundo);
 
 }
